@@ -1,4 +1,4 @@
-# TIAGO-DOCKER
+# TIAGO-DOCKER-TENSORFLOW
 
 Original container: https://github.com/okabedev/tiago-docker
 
@@ -11,6 +11,7 @@ This container is meant to run with a capable GPU. It has been tested with NVIDI
 Docker.
 Docker-compose.
 Nvidia docker.
+CUDA and CUDNN.
 
 ### How to run the container
   
